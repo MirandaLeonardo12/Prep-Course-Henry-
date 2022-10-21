@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "boca" ;
+const nuevaString = string ;
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 8;
@@ -31,26 +31,26 @@ function devolverString(str) {
   
 }
 
-function suma(700, 14) {714
+function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
   
 }
 
-function resta(10, 8) {2
+function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   
 }
 
-function multiplica(4, 3) {12
+function multiplica(x, y) {1
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
   
 }
 
-function divide(80, 4) {20
+function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
   
